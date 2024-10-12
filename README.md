@@ -1,3 +1,9 @@
+<div align="center">
+    <img src="https://github.com/asim-kazi/asim-kazi/blob/main/Asim_banner.gif" alt="logo"  width="900">
+</div>
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 <h1 align="center">Hi 👋, I'm Asim Kazi</h1>
 <h3 align="center">I am currently uploding C,C++,JAVA programs.</h3>
 
@@ -9,6 +15,9 @@
 
 - ⚡ Fun fact **I think, i am Funny.....**
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=asim-kazi&label=Profile%20views&color=0e75b6&style=flat" alt="asim-kazi" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100080340617895&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100080340617895&mibextid=zbwkwl" height="30" width="40" /></a>
@@ -37,3 +46,8 @@
 </div>
 
 ###
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
