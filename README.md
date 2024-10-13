@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I think, i am Funny.....**
 
+- "I would like you to review 👁️👁️ my repositories to gain a deeper understanding 📈 of a specific topic 🧾. Please assure me that 🙏 my code will remain confidential and will not be copied ❌..."
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=asim-kazi&label=Profile%20views&color=0e75b6&style=flat" alt="asim-kazi" />
 </p>
