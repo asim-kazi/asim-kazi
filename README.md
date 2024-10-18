@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/asim-kazi/asim-kazi/blob/main/Asim_banner.gif" alt="logo"  width="900">
+    <img src="https://github.com/asim-kazi/asim-kazi/blob/main/Asim_banner.gif" alt="logo"  width="1000">
 </div>
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
