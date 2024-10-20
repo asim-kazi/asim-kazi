@@ -9,6 +9,12 @@
 
 - 🌱 I’m currently learning **BTech in CSE(AI-ML)**
 
+- 🔭 I’m currently working on Website which provides one stop solution for dairy farmers
+
+- 🌱 I’m currently learning Advanced JAVA and Machine Learning
+
+- 👯 I’m looking to collaborate on ML projects
+
 - 👨‍💻 All of my projects are available at [https://github.com/asim-kazi](https://github.com/asim-kazi)
 
 - 📫 How to reach me **asimkazi8010@gmail.com**
